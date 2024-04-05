@@ -1,9 +1,0 @@
-/home/ros-vm/ros2_diff_drive_robot_ws/build/ros2_diff_drive_robot_ws/CMakeFiles/uninstall.dir
-/home/ros-vm/ros2_diff_drive_robot_ws/build/ros2_diff_drive_robot_ws/CMakeFiles/ros2_diff_drive_robot_ws_uninstall.dir
-/home/ros-vm/ros2_diff_drive_robot_ws/build/ros2_diff_drive_robot_ws/CMakeFiles/test.dir
-/home/ros-vm/ros2_diff_drive_robot_ws/build/ros2_diff_drive_robot_ws/CMakeFiles/edit_cache.dir
-/home/ros-vm/ros2_diff_drive_robot_ws/build/ros2_diff_drive_robot_ws/CMakeFiles/rebuild_cache.dir
-/home/ros-vm/ros2_diff_drive_robot_ws/build/ros2_diff_drive_robot_ws/CMakeFiles/list_install_components.dir
-/home/ros-vm/ros2_diff_drive_robot_ws/build/ros2_diff_drive_robot_ws/CMakeFiles/install.dir
-/home/ros-vm/ros2_diff_drive_robot_ws/build/ros2_diff_drive_robot_ws/CMakeFiles/install/local.dir
-/home/ros-vm/ros2_diff_drive_robot_ws/build/ros2_diff_drive_robot_ws/CMakeFiles/install/strip.dir
