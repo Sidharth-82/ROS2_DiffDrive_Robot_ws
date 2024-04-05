@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ros-vm/my_slam_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/ros-vm/my_slam_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ros-vm/my_slam_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/ros-vm/my_slam_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
