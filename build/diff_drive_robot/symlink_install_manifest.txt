@@ -1,5 +1,7 @@
 /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/config/empty.yaml
+/home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/inertial_macros.xacro
 /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/robot.urdf.xacro
+/home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/robot_core.xacro
 /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/launch/rsp.launch.py
 /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/worlds/empty.world
 /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/ament_index/resource_index/package_run_dependencies/diff_drive_robot
