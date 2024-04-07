@@ -1,10 +1,14 @@
 /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/config/empty.yaml
+/home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/config/gazebo_params.yaml
+/home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/config/my_controllers.yaml
 /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/camera.xacro
+/home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/face.xacro
 /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/gazebo_control.xacro
 /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/inertial_macros.xacro
 /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/lidar.xacro
 /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/robot.urdf.xacro
 /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/robot_core.xacro
+/home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/ros2_control.xacro
 /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/launch/launch_sim.launch.py
 /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/launch/rsp.launch.py
 /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/worlds/empty_world.world

@@ -1,0 +1,42 @@
+[0.024s] Invoking command in '/home/ros-vm/ros2_diff_drive_robot_ws/build/diff_drive_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ros-vm/my_slam_ws/install/turtlebot3_teleop:/home/ros-vm/my_slam_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/ros-vm/ros2_diff_drive_robot_ws/build/diff_drive_robot -- -j4 -l4
+[0.098s] Invoked command in '/home/ros-vm/ros2_diff_drive_robot_ws/build/diff_drive_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ros-vm/my_slam_ws/install/turtlebot3_teleop:/home/ros-vm/my_slam_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/ros-vm/ros2_diff_drive_robot_ws/build/diff_drive_robot -- -j4 -l4
+[0.176s] Invoking command in '/home/ros-vm/ros2_diff_drive_robot_ws/build/diff_drive_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ros-vm/my_slam_ws/install/turtlebot3_teleop:/home/ros-vm/my_slam_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/ros-vm/ros2_diff_drive_robot_ws/build/diff_drive_robot
+[0.187s] -- Install configuration: ""
+[0.187s] -- Execute custom install script
+[0.188s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/config/empty.yaml
+[0.188s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/config/gazebo_params.yaml
+[0.189s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/config/my_controllers.yaml
+[0.189s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/camera.xacro
+[0.189s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/face.xacro
+[0.190s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/gazebo_control.xacro
+[0.190s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/inertial_macros.xacro
+[0.190s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/lidar.xacro
+[0.191s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/robot.urdf.xacro
+[0.191s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/robot_core.xacro
+[0.191s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/description/ros2_control.xacro
+[0.192s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/launch/launch_sim.launch.py
+[0.192s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/launch/rsp.launch.py
+[0.192s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/worlds/empty_world.world
+[0.193s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/worlds/maze.world
+[0.193s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/worlds/turtlebot3_dqn_stage1.world
+[0.194s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/worlds/turtlebot3_dqn_stage2.world
+[0.194s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/worlds/turtlebot3_dqn_stage3.world
+[0.194s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/worlds/turtlebot3_dqn_stage4.world
+[0.194s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/worlds/turtlebot3_house.world
+[0.194s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/worlds/turtlebot3_world.world
+[0.195s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/ament_index/resource_index/package_run_dependencies/diff_drive_robot
+[0.195s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/ament_index/resource_index/parent_prefix_path/diff_drive_robot
+[0.195s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/environment/ament_prefix_path.sh
+[0.195s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/environment/ament_prefix_path.dsv
+[0.196s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/environment/path.sh
+[0.196s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/environment/path.dsv
+[0.196s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/local_setup.bash
+[0.197s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/local_setup.sh
+[0.197s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/local_setup.zsh
+[0.198s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/local_setup.dsv
+[0.198s] -- Symlinking: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/package.dsv
+[0.213s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/ament_index/resource_index/packages/diff_drive_robot
+[0.213s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/cmake/diff_drive_robotConfig.cmake
+[0.214s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/cmake/diff_drive_robotConfig-version.cmake
+[0.215s] -- Up-to-date symlink: /home/ros-vm/ros2_diff_drive_robot_ws/install/diff_drive_robot/share/diff_drive_robot/package.xml
+[0.220s] Invoked command in '/home/ros-vm/ros2_diff_drive_robot_ws/build/diff_drive_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ros-vm/my_slam_ws/install/turtlebot3_teleop:/home/ros-vm/my_slam_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/ros-vm/ros2_diff_drive_robot_ws/build/diff_drive_robot
