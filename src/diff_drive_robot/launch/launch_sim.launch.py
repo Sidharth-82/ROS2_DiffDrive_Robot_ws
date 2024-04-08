@@ -61,11 +61,25 @@ def generate_launch_description():
     
     online_async = IncludeLaunchDescription(
                 PythonLaunchDescriptionSource([os.path.join(
-                    get_package_share_directory(package_name),'launch','online_async_launch.launch.py'
+                    get_package_share_directory(package_name),'launch','online_async_launch.py'
                 )]), launch_arguments={'slam_params_file': os.path.join(get_package_share_directory(package_name),'config','mapper_params_online_async.yaml'),
                                        'use_sim_time': 'true'}.items()
     )
-
+    
+    
+    
+    localization = IncludeLaunchDescription(
+                PythonLaunchDescriptionSource([os.path.join(
+                    get_package_share_directory(package_name),'launch','localization_launch.py'
+                )]), launch_arguments={'map': os.path.join(get_package_share_directory(package_name),'maps','maze.yaml'),
+                                       'use_sim_time': 'true'}.items()
+    )
+    navigation = IncludeLaunchDescription(
+                PythonLaunchDescriptionSource([os.path.join(
+                    get_package_share_directory(package_name),'launch','navigation_launch.py'
+                 )]), launch_arguments={'use_sim_time': 'true',
+                                        'map_subscribe_transient_local': 'true'}.items()
+    )
     # Launch them all!
     return LaunchDescription([
         rsp,
@@ -74,5 +88,7 @@ def generate_launch_description():
         spawn_entity,
         diff_drive_spawner,
         joint_broad_spawner,
-        online_async
+        online_async,
+        localization,
+        navigation
     ])
